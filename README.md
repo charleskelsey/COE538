@@ -40,14 +40,8 @@ the microprocessor system, and run it.
 
 **Lab 5:** Robot Roaming Program \
 The objective of this programming exercise is to design, install and test a program to guide the eebot robot in a
-simple roaming pattern.
-<br />
-Robot roaming behavior can be obtained with a very simple set of rules. Initially, the robot drives in a straight
+simple roaming pattern. Robot roaming behavior can be obtained with a very simple set of rules. Initially, the robot drives in a straight
 line. If it doesn’t encounter any obstacles, after a certain interval it stops, executes a turn, and then runs again in
-a straight line.
-<br />
-If the robot encounters an obstacle, it executes a back-and-turn manoeuvre. It drives straight backward for a
+a straight line. If the robot encounters an obstacle, it executes a back-and-turn manoeuvre. It drives straight backward for a
 fixed interval and then briefly disables one motor to cause the vehicle heading to change. Then it resumes driving
-straight forward again.
-<br />
-This behavior must be translated into a working control program.
+straight forward again. This behavior must be translated into a working control program.
