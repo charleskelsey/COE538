@@ -38,7 +38,7 @@ the microprocessor system, and run it.
 
 <br />
 
-**Lab 5:** Robot Roaming Program
+**Lab 5:** Robot Roaming Program \
 The objective of this programming exercise is to design, install and test a program to guide the eebot robot in a
 simple roaming pattern. \
 Robot roaming behavior can be obtained with a very simple set of rules. Initially, the robot drives in a straight
