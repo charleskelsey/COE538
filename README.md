@@ -6,6 +6,7 @@
   * Using a CodeWarrior’s text editor, create a complete assembly language program, assemble it, load it into
 the microprocessor system, and run it.
   * Use breakpoint and memory dump techniques to debug problems with a source code program.
+<br />
 
 **Lab 2:** Programming the I/O Devices
 
