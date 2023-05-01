@@ -39,12 +39,12 @@ the microprocessor system, and run it.
 <br />
 
 **Lab 5:** Robot Roaming Program \
-&emsp; The objective of this programming exercise is to design, install and test a program to guide the eebot robot in a
-simple roaming pattern. \
-&emsp; Robot roaming behavior can be obtained with a very simple set of rules. Initially, the robot drives in a straight
+The objective of this programming exercise is to design, install and test a program to guide the eebot robot in a
+simple roaming pattern. \ \
+Robot roaming behavior can be obtained with a very simple set of rules. Initially, the robot drives in a straight
 line. If it doesn’t encounter any obstacles, after a certain interval it stops, executes a turn, and then runs again in
-a straight line. \
-&emsp; If the robot encounters an obstacle, it executes a back-and-turn manoeuvre. It drives straight backward for a
+a straight line. \ \
+If the robot encounters an obstacle, it executes a back-and-turn manoeuvre. It drives straight backward for a
 fixed interval and then briefly disables one motor to cause the vehicle heading to change. Then it resumes driving
-straight forward again. \
-&emsp; This behavior must be translated into a working control program.
+straight forward again. \ \
+This behavior must be translated into a working control program.
